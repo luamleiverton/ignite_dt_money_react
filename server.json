@@ -1,0 +1,116 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de Site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-06-14T12:26:33.567Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 80,
+      "createdAt": "2023-06-13T12:26:33.567Z"
+    },
+    {
+      "id": 3,
+      "description": "Hospedagem",
+      "type": "outcome",
+      "category": "Sustentação da aplicação",
+      "price": 1800,
+      "createdAt": "2023-06-13T12:26:33.567Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-06-24T23:50:38.931Z",
+      "id": 4
+    },
+    {
+      "description": "Iogurte",
+      "price": 4,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-06-25T00:08:20.200Z",
+      "id": 5
+    },
+    {
+      "description": "Pastel",
+      "price": 4,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-06-25T00:44:21.066Z",
+      "id": 6
+    },
+    {
+      "description": "Novo site",
+      "price": 15000,
+      "category": "Site",
+      "type": "income",
+      "createdAt": "2023-06-25T00:52:31.011Z",
+      "id": 7
+    },
+    {
+      "description": "teste",
+      "price": 1,
+      "category": "teste",
+      "type": "outcome",
+      "createdAt": "2023-06-25T00:55:17.838Z",
+      "id": 8
+    },
+    {
+      "description": "Mouse",
+      "price": 50,
+      "category": "Acessório",
+      "type": "outcome",
+      "createdAt": "2023-06-25T01:21:54.838Z",
+      "id": 9
+    },
+    {
+      "description": "teste",
+      "price": 3,
+      "category": "teste",
+      "type": "income",
+      "createdAt": "2023-06-25T01:24:29.471Z",
+      "id": 10
+    },
+    {
+      "description": "Event Ignite",
+      "price": 5,
+      "category": "teste",
+      "type": "income",
+      "createdAt": "2023-06-25T01:26:49.719Z",
+      "id": 11
+    },
+    {
+      "description": "Event Ignite",
+      "price": 2,
+      "category": "teste",
+      "type": "income",
+      "createdAt": "2023-06-25T01:27:08.630Z",
+      "id": 12
+    },
+    {
+      "description": "teste",
+      "price": 2,
+      "category": "teste",
+      "type": "income",
+      "createdAt": "2023-06-25T01:30:28.820Z",
+      "id": 13
+    },
+    {
+      "description": "Iogurte",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-06-25T01:40:01.211Z",
+      "id": 14
+    }
+  ]
+}
